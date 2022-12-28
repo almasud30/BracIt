@@ -1,0 +1,190 @@
+.mkd-preload-background { background-image: url(https://craftsmenltd.com/wp-content/themes/connectwp/assets/img/preload_pattern.png) !important;}
+
+a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, p a, .mkd-pagination li.active span, .mkd-pagination li:hover a, .mkd-main-menu ul .mkd-menu-featured-icon, .mkd-drop-down .second .inner ul li ul li:hover>a, .mkd-drop-down .second .inner ul li.current-menu-item>a, .mkd-drop-down .second .inner ul li.sub ul li:hover>a, .mkd-drop-down .second .inner>ul>li:hover>a, .mkd-drop-down .wide .second .inner ul li.sub .flexslider ul li a:hover, .mkd-drop-down .wide .second ul li .flexslider ul li a:hover, .mkd-drop-down .wide .second .inner ul li.sub .flexslider.widget_flexslider .menu_recent_post_text a:hover, .mkd-header-vertical-compact .mkd-vertical-menu .mkd-menu-featured-icon, .mkd-header-vertical .mkd-vertical-menu .mkd-menu-featured-icon, .mkd-mobile-header .mkd-mobile-menu-opener a:hover, .mkd-title .mkd-title-holder .mkd-breadcrumbs .mkd-current, .mkd-fullscreen-search-holder .mkd-search-submit, .mkd-search-cover .mkd-search-close a:hover, .mkd-pl-filter-position-left .mkd-pl-filter-holder ul li.mkd-pl-current span, .mkd-pl-filter-position-left .mkd-pl-filter-holder ul li:hover span, .mkd-pl-standard-pagination ul li.mkd-pl-pag-active a, .mkd-portfolio-list-holder.mkd-pl-gallery-overlay article .mkd-pli-text .mkd-pli-category-holder a:hover, .mkd-portfolio-single-holder .mkd-ps-info-holder .mkd-ps-info-item.mkd-ps-categories a:hover, .mkd-accordion-holder .mkd-title-holder .mkd-accordion-mark, blockquote .mkd-quote-icon, blockquote .mkd-blockquote-text, .mkd-blog-list-holder.mkd-simple article .mkd-author a:hover, .mkd-blog-list-holder.mkd-simple article .mkd-read-share-holder:hover, .mkd-blog-list-holder.mkd-simple article .mkd-read-share-holder:hover .mkd-read-more, .mkd-blog-slider-holder.mkd-simple article .mkd-author a:hover, .mkd-blog-slider-holder.mkd-simple article .mkd-read-share-holder:hover, .mkd-blog-slider-holder.mkd-simple article .mkd-read-share-holder:hover .mkd-read-more, .mkd-blog-slider-holder.mkd-simple article.format-gallery .mkd-author a:hover, .mkd-blog-slider-holder.mkd-simple article.format-gallery .mkd-date:hover, .mkd-blog-slider-holder.mkd-simple article.format-gallery .mkd-item-title:hover, .mkd-btn.mkd-btn-outline, .mkd-countdown .countdown-amount, .mkd-countdown .countdown-period, .mkd-counter-circle .mkd-counter-icon-holder .mkd-counter-icon i, .mkd-counter-circle .mkd-counter-icon-holder .mkd-counter-icon span, .mkd-dropcaps, .no-touch .mkd-horizontal-timeline .mkd-timeline-navigation a:hover, .mkd-icon-list-item .mkd-icon-list-icon-holder-inner .font_elegant, .mkd-icon-list-item .mkd-icon-list-icon-holder-inner i, .mkd-icon-progress-bar .mkd-ipb-active, .mkd-portfolio-list-holder.mkd-pl-filter-position-left .mkd-pl-item:hover .mkd-pli-title, .mkd-title-description .mkd-image-gallery-title, .mkd-message .mkd-message-inner a.mkd-close i:hover, .mkd-ordered-list ol>li:before, .mkd-pie-chart-with-icon-holder .mkd-percentage-with-icon i, .mkd-pie-chart-with-icon-holder .mkd-percentage-with-icon span, .mkd-pl-holder .mkd-pl-item .product-price ins span, .mkd-social-share-holder.mkd-list li a:hover, .mkd-social-share-holder.mkd-dropdown .mkd-social-share-dropdown li a:hover .mkd-social-network-icon, .mkd-social-share-holder.mkd-dropdown .mkd-social-share-dropdown li a:hover .mkd-social-share-label, .mkd-testimonials.testimonials-simple-slider .mkd-testimonial-content .mkd-testimonial-quote span, .mkd-video-banner-holder .mkd-vb-play-icon, .mkd-video-button .mkd-video-button-play .mkd-video-button-wrapper, .wpb_widgetised_column .widget.widget_nav_menu .menu>li>ul li.current-menu-item a, .wpb_widgetised_column .widget.widget_nav_menu .menu>li>ul li.current_page_item a, aside.mkd-sidebar .widget.widget_nav_menu .menu>li>ul li.current-menu-item a, aside.mkd-sidebar .widget.widget_nav_menu .menu>li>ul li.current_page_item a, .mkd-side-menu .widget ul:not(.slick-dots) li a:hover, .mkd-side-menu .widget #wp-calendar tfoot a:hover, .mkd-side-menu .widget.widget_tag_cloud a:hover, .wpb_widgetised_column .widget ul:not(.slick-dots) li a:hover, aside.mkd-sidebar .widget ul:not(.slick-dots) li a:hover, .wpb_widgetised_column .widget #wp-calendar tfoot a:hover, aside.mkd-sidebar .widget #wp-calendar tfoot a:hover, .wpb_widgetised_column .widget.widget_tag_cloud a:hover, aside.mkd-sidebar .widget.widget_tag_cloud a:hover, .mkd-team .mkd-icon-shortcode:hover, .mkd-team .mkd-icon-shortcode:hover a, .mkd-team .mkd-icon-shortcode:hover i, .mkd-team .mkd-icon-shortcode:hover span, .mkd-blog-holder article.sticky .mkd-post-title a, .mkd-filter-blog-holder li.mkd-active, .mkd-blog-holder.mkd-blog-type-standard article .mkd-post-info .mkd-post-info-item a:hover, .mkd-blog-holder.mkd-blog-single.mkd-blog-standard article .mkd-post-info .mkd-post-info-item a:hover, .mejs-controls .mejs-button button:hover, .mkd-woocommerce-page table.cart tr.cart_item td.product-subtotal, .mkd-woocommerce-page .cart-collaterals table tr.order-total .amount, .woocommerce-page .mkd-content a.button:hover, .woocommerce-page .mkd-content button[type=submit]:hover, .woocommerce-page .mkd-content input[type=submit]:hover, div.woocommerce a.button:hover, div.woocommerce button[type=submit]:hover, div.woocommerce input[type=submit]:hover, .mkd-woocommerce-page .woocommerce-error .button.wc-forward, .mkd-woocommerce-page .woocommerce-info .button.wc-forward, .mkd-woocommerce-page .woocommerce-message .button.wc-forward, .mkd-woocommerce-page .woocommerce-error .button.wc-forward:hover, .mkd-woocommerce-page .woocommerce-info .button.wc-forward:hover, .mkd-woocommerce-page .woocommerce-message .button.wc-forward:hover, .woocommerce-page .mkd-content .mkd-quantity-buttons .mkd-quantity-minus:hover, .woocommerce-page .mkd-content .mkd-quantity-buttons .mkd-quantity-plus:hover, div.woocommerce .mkd-quantity-buttons .mkd-quantity-minus:hover, div.woocommerce .mkd-quantity-buttons .mkd-quantity-plus:hover, .mkd-woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li.is-active a, .mkd-woocommerce-page.woocommerce-account .woocommerce table.shop_table td.order-number a:hover, ul.products>.product .mkd-pl-outer .mkd-pl-cart a, ul.products>.product .mkd-pl-outer .price ins span, .mkd-single-product-summary .price, .mkd-shopping-cart-dropdown .mkd-item-info-holder .remove:hover, .mkd-shopping-cart-dropdown .mkd-cart-bottom .mkd-subtotal-holder .mkd-total-amount span, .widget.woocommerce.widget_shopping_cart .widget_shopping_cart_content ul li a:not(.remove):hover, .widget.woocommerce.widget_shopping_cart .widget_shopping_cart_content ul li .remove:hover, .widget.woocommerce.widget_layered_nav_filters a:hover, .widget.woocommerce.widget_products ul li a:hover .product-title, .widget.woocommerce.widget_recently_viewed_products ul li a:hover .product-title, .widget.woocommerce.widget_top_rated_products ul li a:hover .product-title, .widget.woocommerce.widget_products ul li .amount, .widget.woocommerce.widget_recently_viewed_products ul li .amount, .widget.woocommerce.widget_top_rated_products ul li .amount, .widget.woocommerce.widget_recent_reviews a:hover { color: #f47621;}
+
+.mkd-btn.mkd-btn-hover-outline:not(.mkd-btn-custom-hover-color):hover, .mkd-btn.mkd-btn-hover-white:not(.mkd-btn-custom-hover-color):hover, .mkd-dark-header .mkd-shopping-cart-dropdown .mkd-cart-bottom .mkd-subtotal-holder .mkd-total-amount span, .mkd-light-header .mkd-shopping-cart-dropdown .mkd-cart-bottom .mkd-subtotal-holder .mkd-total-amount span { color: #f47621!important;}
+
+::selection { background: #f47621;}
+
+::-moz-selection { background: #f47621;}
+
+body.mkd-paspartu-enabled .mkd-wrapper-paspartu, .mkd-st-loader .pulse, .mkd-st-loader .double_pulse .double-bounce1, .mkd-st-loader .double_pulse .double-bounce2, .mkd-st-loader .cube, .mkd-st-loader .rotating_cubes .cube1, .mkd-st-loader .rotating_cubes .cube2, .mkd-st-loader .stripes>div, .mkd-st-loader .wave>div, .mkd-st-loader .two_rotating_circles .dot1, .mkd-st-loader .two_rotating_circles .dot2, .mkd-st-loader .five_rotating_circles .container1>div, .mkd-st-loader .five_rotating_circles .container2>div, .mkd-st-loader .five_rotating_circles .container3>div, .mkd-st-loader .atom .ball-1:before, .mkd-st-loader .clock .ball:before, .mkd-st-loader .fussion .ball, .mkd-st-loader .mitosis .ball, .mkd-st-loader .pulse_circles .ball, .mkd-st-loader .wave_circles .ball, .mkd-st-loader .atom .ball-2:before, .mkd-st-loader .atom .ball-3:before, .mkd-st-loader .atom .ball-4:before, .mkd-st-loader .lines .line1, .mkd-st-loader .lines .line2, .mkd-st-loader .lines .line3, .mkd-st-loader .lines .line4, .mkd-st-loader .fussion .ball-1, .mkd-st-loader .fussion .ball-2, .mkd-st-loader .fussion .ball-3, .mkd-st-loader .fussion .ball-4, #mkd-back-to-top, .mkd-comment-holder .mkd-comment-reply-holder a:after, #ui-datepicker-div .ui-datepicker-today, .mkd-mobile-header .mkd-mobile-side-area, .mkd-fullscreen-menu-holder, .mkd-search-fade .mkd-fullscreen-search-holder .mkd-fullscreen-search-table, .mkd-pl-filter-holder ul li>span:after, .mkd-portfolio-single-holder .mkd-ps-social-holder .mkd-ps-likes .mkd-like, .mkd-accordion-holder .mkd-title-holder.ui-state-active, .mkd-accordion-holder .mkd-title-holder.ui-state-hover, .mkd-btn.mkd-btn-solid, .mkd-btn.mkd-btn-underline .mkd-btn-underline-line, .mkd-counter-circle .mkd-counter-icon-holder .mkd-counter-icon-circle, .mkd-dropcaps.mkd-circle, .mkd-dropcaps.mkd-square, .mkd-horizontal-timeline .mkd-horizontal-timeline-events a.selected:after, .no-touch .mkd-horizontal-timeline .mkd-horizontal-timeline-events a:hover:after, .mkd-horizontal-timeline .mkd-horizontal-timeline-filling-line, .mkd-icon-shortcode.circle, .mkd-icon-shortcode.square, .mkd-image-gallery .mkd-gallery-image span.mkd-image-gallery-hover, .mkd-pie-chart-doughnut-holder .mkd-pie-legend ul li .mkd-pie-color-holder, .mkd-pie-chart-pie-holder .mkd-pie-legend ul li .mkd-pie-color-holder, .mkd-pricing-slider .mkd-pricing-slider-drag, .mkd-pricing-table-wi.mkd-pt-active .mkd-active-label .mkd-active-label-inner, .mkd-price-table.mkd-pt-active .mkd-active-label .mkd-active-label-inner, .mkd-process-holder.mkd-process-horizontal .mkd-pi-holder .mkd-pi.icon, .mkd-process-holder.mkd-process-horizontal.appeared .mkd-pi-holder:before, .mkd-process-holder.mkd-process-vertical.appeared .mkd-process-item-holder:not(:last-child):before, .mkd-process-holder.mkd-process-vertical .mkd-pi-holder .mkd-pi.icon, .mkd-progress-bar .mkd-progress-content-outer .mkd-progress-content, .mkd-tabs.mkd-horizontal .mkd-tabs-nav li.ui-state-active a, .mkd-tabs.mkd-vertical .mkd-tabs-nav li.ui-state-active a, .mkd-unordered-list ul li:before, .mkd-vertical-progress-bar-holder .mkd-vpb-active-bar, .widget_mkd_call_to_action_button .mkd-call-to-action-button, .wpb_widgetised_column .widget.widget_nav_menu .menu>li>a.mkd-custom-menu-active, aside.mkd-sidebar .widget.widget_nav_menu .menu>li>a.mkd-custom-menu-active, .mkd-blog-holder.mkd-blog-type-masonry-gallery article.format-link, .mkd-blog-holder.mkd-blog-type-masonry-gallery article.format-quote, .mkd-blog-holder.mkd-blog-type-masonry article.format-link .mkd-post-content, .mkd-blog-holder.mkd-blog-type-masonry article.format-quote .mkd-post-content, .mkd-blog-list-holder.mkd-masonry article.format-link .mkd-post-content, .mkd-blog-list-holder.mkd-masonry article.format-quote .mkd-post-content, .mkd-blog-holder.mkd-blog-type-standard article.format-quote .mkd-post-text, .mkd-blog-holder.mkd-blog-type-standard article.format-link .mkd-post-text, .mkd-blog-holder.mkd-blog-single.mkd-blog-standard article.format-link .mkd-post-link, .mkd-blog-holder.mkd-blog-single.mkd-blog-standard article.format-quote .mkd-post-quote, .mejs-controls .mejs-time-rail .mejs-time-current:after, .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current, .mejs-controls .mejs-time-rail .mejs-time-current, .woocommerce-page .mkd-content a.button, .woocommerce-page .mkd-content button[type=submit], .woocommerce-page .mkd-content input[type=submit], div.woocommerce a.button, div.woocommerce button[type=submit], div.woocommerce input[type=submit], .mkd-shopping-cart-holder .mkd-header-cart .mkd-cart-number, .mkd-shopping-cart-dropdown .mkd-cart-bottom .mkd-checkout, .mkd-header-vertical-compact .mkd-vertical-menu>ul>li:hover { background-color: #f47621;}
+
+.mkd-st-loader .pulse_circles .ball, .mkd-comment-form #respond input[type=text]:focus, .mkd-comment-form #respond textarea:focus, .mkd-btn.mkd-btn-solid, .mkd-btn.mkd-btn-outline, .mkd-horizontal-timeline .mkd-horizontal-timeline-events a.selected:after, .no-touch .mkd-horizontal-timeline .mkd-horizontal-timeline-events a:hover:after, .mkd-horizontal-timeline .mkd-horizontal-timeline-events a.older-event:after, .mkd-tabs.mkd-horizontal .mkd-tabs-nav li.ui-state-active a, .mkd-tabs.mkd-vertical .mkd-tabs-nav li.ui-state-active a { border-color: #f47621;}
+
+.mkd-btn.mkd-btn-hover-outline:not(.mkd-btn-custom-border-hover):hover { border-color: #f47621!important;}
+
+::selection { background: #000000;}
+
+::-moz-selection { background: #000000;}
+
+.mkd-type1-gradient-left-to-right { background: linear-gradient(to right,#f47621, #0098ff);}
+
+.mkd-type1-gradient-bottom-to-top, .mkd-type1-gradient-bottom-to-top-after:after { background: linear-gradient(to top,#f47621, #0098ff);}
+
+.mkd-type1-gradient-left-bottom-to-right-top { background: linear-gradient(to right top,#f47621, #0098ff);}
+
+.mkd-type1-gradient-left-to-right-2x { background: linear-gradient(to right,#f47621 0%, #0098ff 50%,#f47621 100%);background-size: 200% 200%;}
+
+.mkd-type1-gradient-left-to-right-text i, .mkd-type1-gradient-left-to-right-text i:before, .mkd-type1-gradient-left-to-right-text span { background: -webkit-linear-gradient(right top,#0098ff, #f47621);color: #f47621;-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
+.mkd-type1-gradient-bottom-to-top-text i, .mkd-type1-gradient-bottom-to-top-text i:before, .mkd-type1-gradient-bottom-to-top-text span { background: -webkit-linear-gradient(bottom,#0098ff, #f47621);color: #f47621;-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
+.mkd-boxed .mkd-wrapper { background-attachment: fixed;}
+
+p { color: #666666d6;}
+
+a, p a { color: #f47621;}
+
+a:hover, p a:hover { color: #a05421;}
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover { color: #a05421;}
+
+.mkd-btn.mkd-btn-solid { color: #ffffff;border-color: #f47621;background-color: #f47621;}
+
+.mkd-btn.mkd-btn-solid:not(.mkd-btn-custom-hover-color):hover { color: #f47621!important;}
+
+.mkd-btn.mkd-btn-solid:not(.mkd-btn-custom-hover-bg):hover { background-color: #ffffff!important;}
+
+.mkd-btn.mkd-btn-solid:not(.mkd-btn-custom-hover-bg):hover { border-color: #ffffff!important;}
+
+.cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea { height: 150px;}
+
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { font-weight: 400;border-color: rgba(234, 234, 234, 1);border-radius: 3px;padding-top: 10px;padding-bottom: 10px;}
+
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz:focus { border-color: rgba(244, 118, 33, 1);}
+
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { background-color: rgba(244, 118, 33, 1);border-color: rgba(244, 118, 33, 1);}
+
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #f47621;background-color: rgba(255, 255, 255, 1);border-color: rgba(244, 118, 33, 1);}
+
+.cf7_custom_style_2 ::-webkit-input-placeholder { color: #000000;}
+
+.cf7_custom_style_2 :-moz-placeholder { color: #000000;}
+
+.cf7_custom_style_2 ::-moz-placeholder { color: #000000;}
+
+.cf7_custom_style_2 :-ms-input-placeholder { color: #000000;}
+
+.cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea { height: 202px;}
+
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { color: #000000;border-color: rgba(218, 226, 239, 1);border-radius: 7px;}
+
+.cf7_custom_style_2 input:focus::-webkit-input-placeholder, .cf7_custom_style_2 textarea:focus::-webkit-input-placeholder { color: #000000;}
+
+.cf7_custom_style_2 input:focus:-moz-placeholder, .cf7_custom_style_2 textarea:focus:-moz-placeholder { color: #000000;}
+
+.cf7_custom_style_2 input:focus::-moz-placeholder, .cf7_custom_style_2 textarea:focus::-moz-placeholder { color: #000000;}
+
+.cf7_custom_style_2 input:focus:-ms-input-placeholder, .cf7_custom_style_2 textarea:focus:-ms-input-placeholder { color: #000000;}
+
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz:focus { color: #000000;border-color: rgba(244, 118, 33, 1);}
+
+.cf7_custom_style_2 p { color: #000000;}
+
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;background-color: rgba(244, 118, 33, 1);border-color: rgba(244, 118, 33, 1);}
+
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #f47621;background-color: rgba(255, 255, 255, 1);border-color: rgba(244, 118, 33, 1);}
+
+.cf7_custom_style_3 ::-webkit-input-placeholder { color: #ffffff;}
+
+.cf7_custom_style_3 :-moz-placeholder { color: #ffffff;}
+
+.cf7_custom_style_3 ::-moz-placeholder { color: #ffffff;}
+
+.cf7_custom_style_3 :-ms-input-placeholder { color: #ffffff;}
+
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { color: #ffffff;background-color: rgba(255, 255, 255, 0.25);border-width: 0px;border-radius: 50px;padding-right: 195px;padding-left: 41px;}
+
+.cf7_custom_style_3 input:focus::-webkit-input-placeholder, .cf7_custom_style_3 textarea:focus::-webkit-input-placeholder { color: #ffffff;}
+
+.cf7_custom_style_3 input:focus:-moz-placeholder, .cf7_custom_style_3 textarea:focus:-moz-placeholder { color: #ffffff;}
+
+.cf7_custom_style_3 input:focus::-moz-placeholder, .cf7_custom_style_3 textarea:focus::-moz-placeholder { color: #ffffff;}
+
+.cf7_custom_style_3 input:focus:-ms-input-placeholder, .cf7_custom_style_3 textarea:focus:-ms-input-placeholder { color: #ffffff;}
+
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz:focus { color: #ffffff;}
+
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_4 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_4 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-quiz { background-color: rgba(242, 242, 242, 1);border-width: 0px;border-radius: 50px;padding-right: 195px;padding-left: 41px;}
+
+float(100)
+.mkd-top-bar-background { height: 100px;}
+
+.mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li > a, .mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li.mkd-active-item > a, .mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li:hover > a { color: #000000;}
+
+.mkd-page-header .mkd-sticky-header .mkd-side-menu-button-opener, .mkd-page-header .mkd-sticky-header .mkd-search-opener, .mkd-page-header .mkd-sticky-header .mkd-side-menu-button-opener:hover, .mkd-page-header .mkd-sticky-header .mkd-search-opener:hover { color: #000000;}
+
+            .mkd-main-menu.mkd-default-nav > ul > li > a,
+            .mkd-page-header #lang_sel > ul > li > a,
+            .mkd-page-header #lang_sel_click > ul > li > a,
+            .mkd-page-header #lang_sel ul > li:hover > a{
+             color: #000000;                                                                                     }
+        
+        
+                    .mkd-main-menu.mkd-default-nav > ul > li:hover > a,
+            .mkd-main-menu.mkd-default-nav > ul > li.mkd-active-item:hover > a,
+            body:not(.mkd-menu-item-first-level-bg-color) .mkd-main-menu.mkd-default-nav > ul > li:hover > a,
+            body:not(.mkd-menu-item-first-level-bg-color) .mkd-main-menu.mkd-default-nav > ul > li.mkd-active-item:hover > a,
+            .mkd-page-header #lang_sel ul li a:hover,
+            .mkd-page-header #lang_sel_click > ul > li a:hover{
+            color: #f47621 !important;
+            }
+        
+                    .mkd-main-menu.mkd-default-nav > ul > li.mkd-active-item > a,
+            body:not(.mkd-menu-item-first-level-bg-color) .mkd-main-menu.mkd-default-nav > ul > li.mkd-active-item > a{
+            color: #f47621;
+            }
+        
+        
+        
+        
+
+                    .light .mkd-main-menu.mkd-default-nav > ul > li:hover > a,
+            .light .mkd-main-menu.mkd-default-nav > ul > li.mkd-active-item:hover > a{
+            color: #f47621 !important;
+            }
+        
+                    .light .mkd-main-menu.mkd-default-nav > ul > li.mkd-active-item > a{
+            color: #f47621 !important;
+            }
+        
+                    .dark .mkd-main-menu.mkd-default-nav > ul > li:hover > a,
+            .dark .mkd-main-menu.mkd-default-nav > ul > li.mkd-active-item:hover > a{
+            color: #f47621 !important;
+            }
+        
+                    .dark .mkd-main-menu.mkd-default-nav > ul > li.mkd-active-item > a{
+            color: #f47621;
+            }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                
+        
+                
+        .mkd-header-standard .mkd-page-header .mkd-menu-area { background-color: rgba(255, 255, 255, 0);}
+
+.mkd-header-standard .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { box-shadow: 0px 1px 3px rgba(0,0,0,0.15);}
+
+.mkd-header-standard-extended .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { box-shadow: 0px 1px 3px rgba(0,0,0,0.15);}
+
+.mkd-header-minimal .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { box-shadow: 0px 1px 3px rgba(0,0,0,0.15);}
+
+.mkd-header-divided .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { box-shadow: 0px 1px 3px rgba(0,0,0,0.15);}
+
+.mkd-header-centered .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { box-shadow: 0px 1px 3px rgba(0,0,0,0.15);}
+

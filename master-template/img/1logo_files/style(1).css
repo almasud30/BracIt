@@ -1,0 +1,13 @@
+/*
+Theme Name: ConnectWP Child
+Theme URI: http://connect.qodeinteractive.com
+Description: A child theme of Connect Theme
+Author: Mikado Themes
+Author URI: http://themeforest.net/user/mikado-themes
+Version: 1.0.1
+Template: connectwp
+*/
+
+.mkd-st-loader .atom .ball-1:before, .mkd-st-loader .atom .ball-2:before, .mkd-st-loader .atom .ball-3:before, .mkd-st-loader .atom .ball-4:before{
+    background:#f47621;
+}
